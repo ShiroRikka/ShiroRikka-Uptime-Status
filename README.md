@@ -29,7 +29,7 @@
 
 <p align="center">🎮 在线演示：
   <a href="https://status.shirorikka.dpdns.org" target="_blank">
-    https://status.bsgun.cn
+    https://status.shirorikka.dpdns.org
   </a>
 </p>
 
